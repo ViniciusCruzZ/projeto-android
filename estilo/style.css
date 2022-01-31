@@ -81,7 +81,7 @@ header p {
     max-width: 600px;
     padding: 0px 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.315);
 }
 
